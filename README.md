@@ -33,10 +33,6 @@ mvn spring-boot:run
 - AuthorsAPI: http://localhost:8081
 - BooksAPI: http://localhost:8082
 
-## Default Credentials
-- Username: admin
-- Password: admin123
-
 ## API Documentation
 - AuthorsAPI Swagger UI: http://localhost:8081/swagger-ui.html
 - BooksAPI Swagger UI: http://localhost:8082/swagger-ui.html
