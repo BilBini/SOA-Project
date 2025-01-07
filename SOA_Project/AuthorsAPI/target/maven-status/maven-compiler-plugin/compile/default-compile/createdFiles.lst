@@ -1,0 +1,7 @@
+com\example\authorsapi\model\Author.class
+com\example\authorsapi\config\WebConfig.class
+com\example\authorsapi\controller\AuthorController.class
+com\example\authorsapi\repository\AuthorRepository.class
+com\example\authorsapi\repository\AuthorRepository$1.class
+com\example\authorsapi\service\AuthorService.class
+com\example\authorsapi\AuthorsApiApplication.class

@@ -1,0 +1,7 @@
+com\example\booksapi\controller\BookController.class
+com\example\booksapi\config\WebConfig.class
+com\example\booksapi\model\Book.class
+com\example\booksapi\repository\BookRepository$1.class
+com\example\booksapi\service\BookService.class
+com\example\booksapi\repository\BookRepository.class
+com\example\booksapi\BooksApiApplication.class
